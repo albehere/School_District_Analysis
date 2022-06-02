@@ -95,11 +95,11 @@ Adjusted Scores by school spending
 
 Original Scores by school size
 
-![Original Scores by school size](Resources/scores_by_size.png)
+![Original Scores by school size](Resources/scores_by_size2.png)
 
 Adjusted Scores by school size
 
-![Adjusted Scores by school size](Resources/scores_by_size_adj.png)
+![Adjusted Scores by school size](Resources/scores_by_size_adj2.png)
 
 Original Scores by school type
 
