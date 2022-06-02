@@ -1,7 +1,7 @@
 # School_District_Analysis Module 4 Challenge for UofT Bootcamp
 
 ## Overview
-###Purpose
+### Purpose
 The client is interested in a summary of key metrics at schools in the district. We are provided with 2 sets of data one for schools and one for students performance. The client suspects an issue with data from one of the grades at a certain school and has asked us to run the analysis with and without this data.
 
 ## Results
@@ -9,11 +9,13 @@ The results of the analysis is below with a comparison betweeen with and without
 
 ### District Summary
 
-![Original Summary](Resources/district_summary.png)
 Original Summary
 
-![Adjusted Summary](Resources/district_summary_adj.png)
+![Original Summary](Resources/district_summary.png)
+
 Adjusted Summary
+
+![Adjusted Summary](Resources/district_summary_adj.png)
 
 #### Effect of adjustment removing ninth graders' grades from Thomas High School
 
@@ -27,37 +29,44 @@ Adjusted Summary
 
 ### School Summary
 
-![Original Summary](Resources/school_summary.png)
 Original Summary
 
-![Adjusted Summary](Resources/school_summary_adj.png)
+![Original Summary](Resources/school_summary.png)
+
 Adjusted Summary
+
+![Adjusted Summary](Resources/school_summary_adj.png)
 
 Only Thomas High School is affected by the adjustment and it decreases averages and passing percentages
 
 ### School Rankings
-
-![Original Top Schools](Resources/top_schools.png)
 Original Top Schools
 
-![Adjusted Top Schools](Resources/top_schools_adj.png)
+![Original Top Schools](Resources/top_schools.png)
+
 Adjusted Top Schools
+
+![Adjusted Top Schools](Resources/top_schools_adj.png)
 
 Thomas High School's rank as the second best school in the district is not affected by the adjustment.
 
 ### Math and Reading Scores by Grade
 
-![Original Math Scores](Resources/math_scores.png)
 Original Math Scores
 
-![Adjusted Math Scores](Resources/math_scores_adj.png)
+![Original Math Scores](Resources/math_scores.png)
+
 Adjusted Math Scores
 
-![Original Reading Scores](Resources/reading_scores.png)
+![Adjusted Math Scores](Resources/math_scores_adj.png)
+
 Original Reading Scores
 
-![Adjusted Reading Scores](Resources/reading_scores_adj.png)
+![Original Reading Scores](Resources/reading_scores.png)
+
 Adjusted Reading Scores
+
+![Adjusted Reading Scores](Resources/reading_scores_adj.png)
 
 Only change is 9th graders' from Thomas High School is NaNs.
 
@@ -76,20 +85,26 @@ As shown in the above results, the effect of removing the grades of ninth grader
 
 ## Appendix
 
-![Original Scores by school spending](Resources/spending_summary.png)
 Original Scores by school spending
 
-![Adjusted Scores by school spending](Resources/spending_summary_adj.png)
+![Original Scores by school spending](Resources/spending_summary.png)
+
 Adjusted Scores by school spending
 
-![Original Scores by school size](Resources/score_by_size.png)
+![Adjusted Scores by school spending](Resources/spending_summary_adj.png)
+
 Original Scores by school size
 
-![Adjusted Scores by school size](Resources/score_by_size_adj.png)
+![Original Scores by school size](Resources/score_by_size.png)
+
 Adjusted Scores by school size
 
-![Original Scores by school type](Resources/type_summary.png)
+![Adjusted Scores by school size](Resources/score_by_size_adj.png)
+
 Original Scores by school type
 
-![Adjusted Scores by school type](Resources/type_summary_adj.png)
+![Original Scores by school type](Resources/type_summary.png)
+
 Adjusted Scores by school type
+
+![Adjusted Scores by school type](Resources/type_summary_adj.png)
