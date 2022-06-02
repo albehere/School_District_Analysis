@@ -99,7 +99,7 @@ Original Scores by school size
 
 Adjusted Scores by school size
 
-![Adjusted Scores by school size](Resources/scores_by_size_adj2.png)
+![Adjusted Scores by school size](Resources/score_by_size_adj2.png)
 
 Original Scores by school type
 
