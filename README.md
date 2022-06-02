@@ -17,6 +17,7 @@ District Summary
 </figure>
 
 
+
 <figure>
   <img
   src= "Resources/district_summary_adj.png"
